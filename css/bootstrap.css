@@ -4370,8 +4370,8 @@ input[type="submit"].btn.btn-mini {
 }
 
 .navbar {
+  width: auto;
   margin: auto;
-  margin-bottom: 20px;
   overflow: visible;
 }
 
