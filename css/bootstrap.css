@@ -53,7 +53,7 @@ section {
 }
 
 nav {
-  width: 960px;
+  width: auto;
   margin: auto;
   position: fixed;
 }
