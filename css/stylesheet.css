@@ -1,7 +1,3 @@
-#image {
-	float: left;
-}
-
-#about_me {
-	float: right;
+section {
+  margin-top: 40px;
 }
