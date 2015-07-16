@@ -3,7 +3,7 @@ section {
   margin: auto;
 }
 
-#navbar-inner {
+.navbar-inner {
   padding-left: 150px;
   padding-right: 150px;
 }
