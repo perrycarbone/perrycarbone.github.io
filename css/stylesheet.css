@@ -4,8 +4,12 @@ section {
 }
 
 .navbar-inner {
-  padding-left: 210px;
+  padding-left: 230px;
   padding-right: 210px;
+}
+
+.navbar {
+  margin-bottom: 10px;
 }
 
 #image {
