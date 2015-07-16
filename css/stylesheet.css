@@ -3,6 +3,10 @@ section {
   margin: auto;
 }
 
+h4 {
+  text-align: center;
+}
+
 .navbar-inner {
   padding-left: 230px;
   padding-right: 210px;
@@ -23,4 +27,8 @@ section {
 
 #about_me {
   float: inherit;
+}
+
+#technical_skills {
+  float: center;
 }
