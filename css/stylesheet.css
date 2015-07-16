@@ -2,3 +2,11 @@ section {
   width: 960px;
   margin: auto;
 }
+
+#image {
+  float: left;
+}
+
+#about_me {
+  float: right;
+}
