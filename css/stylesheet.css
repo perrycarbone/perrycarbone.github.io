@@ -3,11 +3,15 @@ section {
   margin: auto;
 }
 
+#navbar-inner {
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
 #image {
   float: left;
 }
 
 #about_me {
   float: inherit;
-  padding-left: 10px;
 }
