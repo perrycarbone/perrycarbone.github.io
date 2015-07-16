@@ -12,6 +12,11 @@ section {
   margin-bottom: 10px;
 }
 
+.section-display {
+  width: auto;
+  padding: 5px;
+}
+
 #image {
   float: left;
 }
