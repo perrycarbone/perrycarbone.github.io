@@ -46,16 +46,11 @@ details,
 figcaption,
 figure,
 footer,
+header,
 hgroup,
+nav,
 section {
-  width: 960px;
-  margin: auto;
-}
-
-nav {
-  width: 100%;  
-  margin: auto;
-  position: fixed;
+  display: block;
 }
 
 audio,
@@ -227,8 +222,10 @@ textarea {
 }
 
 body {
+  margin: 0;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
+  line-height: 20px;
   color: #333333;
   background-color: #ffffff;
 }
@@ -3950,7 +3947,8 @@ input[type="submit"].btn.btn-mini {
 }
 
 .nav {
-  margin: auto;
+  margin-bottom: 20px;
+  margin-left: 0;
   list-style: none;
 }
 
@@ -4365,14 +4363,13 @@ input[type="submit"].btn.btn-mini {
 }
 
 .navbar {
-  width: auto;
-  margin: auto;
+  *position: relative;
+  *z-index: 2;
+  margin-bottom: 20px;
   overflow: visible;
 }
 
 .navbar-inner {
-  width: 100%;
-  margin: auto;
   min-height: 40px;
   padding-right: 20px;
   padding-left: 20px;
@@ -4415,10 +4412,10 @@ input[type="submit"].btn.btn-mini {
 }
 
 .navbar .brand {
-  display: inline-block;
-  float: center;
+  display: block;
+  float: left;
   padding: 10px 20px 10px;
-  margin-left: 10 px;
+  margin-left: -20px;
   font-size: 20px;
   font-weight: 200;
   color: #777777;
@@ -4563,7 +4560,7 @@ input[type="submit"].btn.btn-mini {
 .navbar-fixed-top .navbar-inner,
 .navbar-fixed-bottom .navbar-inner {
   padding-right: 0;
-  padding-left: 10px;
+  padding-left: 0;
   -webkit-border-radius: 0;
      -moz-border-radius: 0;
           border-radius: 0;
@@ -4599,8 +4596,8 @@ input[type="submit"].btn.btn-mini {
 .navbar .nav {
   position: relative;
   left: 0;
-  display: inline-block;
-  float: none;
+  display: block;
+  float: left;
   margin: 0 10px 0 0;
 }
 
@@ -4610,7 +4607,7 @@ input[type="submit"].btn.btn-mini {
 }
 
 .navbar .nav > li {
-  float: center;
+  float: left;
 }
 
 .navbar .nav > li > a {
