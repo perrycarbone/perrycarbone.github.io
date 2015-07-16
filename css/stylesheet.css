@@ -8,5 +8,6 @@ section {
 }
 
 #about_me {
-  float: right;
+  float: inherit;
+  margin-left: 10px;
 }
