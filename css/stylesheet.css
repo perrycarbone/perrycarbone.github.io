@@ -4,10 +4,10 @@ body {
 }
 
 #image {
-  height: 300px;
-  width: 300px;
+  
 }
 
 #about_me {
+  display: inline;
   float: right;
 }
