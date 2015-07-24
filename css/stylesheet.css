@@ -1,4 +1,4 @@
-body {
+.wrapper {
   width: 980px;
   margin: auto;
 }
@@ -19,7 +19,7 @@ p {
 
 #about_me {
   width: 780px;
-  float: right;
+  float: left;
   margin-left: 10px;
 }
 
