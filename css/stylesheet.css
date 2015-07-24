@@ -11,3 +11,8 @@ p {
   text-align: center;
 }
 
+#about_me {
+  width: 780px;
+  float: right;
+  margin-left: 10px;
+}
