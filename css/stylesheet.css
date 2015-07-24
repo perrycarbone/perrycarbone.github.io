@@ -11,25 +11,3 @@ p {
   text-align: center;
 }
 
-#image {
-  float: left;
-}
-
-#about_me {
-  border: 1px solid black;
-  float: right;
-  height: 200px;
-  margin-left: 10px;
-}
-
-#technical_skills {
-  margin-top: 10px;
-}
-
-#tealeaf_projects {
-  margin-top: 10px;
-}
-
-.section_display {
-  padding: 10px;
-}
