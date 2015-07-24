@@ -33,6 +33,6 @@ p {
 }
 
 .section_display {
-  display: inline;
+  display: block;
   padding: 10px;
 }
