@@ -14,12 +14,19 @@
 
 }
 
+.section-display {
+  display: inline-block;
+
+}
+
 #image {
   height: 200px;
   width: 200px;
 
 }
 
-.section-display {
-  display: inline-block;
+#about_me {
+  float: right;
+  height: 200px;
 }
+
