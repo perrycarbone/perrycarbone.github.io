@@ -2,3 +2,12 @@ body {
   width: 980px;
   margin: auto;
 }
+
+#image {
+  height: 300px;
+  width: 300px;
+}
+
+#about_me {
+  float: right;
+}
