@@ -3,13 +3,21 @@ body {
   margin: auto;
 }
 
+h4 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
 #image {
   float: left;
 }
 
 #about_me {
   border: 1px solid black;
-  float: right;
+  float: left;
   height: 200px;
   margin-left: 10px;
 }
