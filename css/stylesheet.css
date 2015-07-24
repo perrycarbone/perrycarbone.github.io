@@ -9,13 +9,18 @@ body {
 
 #about_me {
   border: 1px solid black;
+  float: right;
+  height: 200px;
+  margin-left: 10px;
 }
 
 #technical_skills {
+  margin-top: 10px;
   border: 1px solid black;
 }
 
 #tealeaf_projects {
+  margin-top: 10px;
   border: 1px solid black;
 }
 
