@@ -13,6 +13,7 @@ body {
 }
 
 footer {
+    margin: 10px 0;
     display: table;
     text-align: center;
     margin-left: auto;
