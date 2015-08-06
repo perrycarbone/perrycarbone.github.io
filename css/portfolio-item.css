@@ -21,7 +21,7 @@ footer {
 } 
 
 ul#links {
-    list-style-type: none;
+    padding: 0px;
 }
 
 li#footer_link {
