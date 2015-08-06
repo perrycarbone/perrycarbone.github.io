@@ -19,3 +19,7 @@ footer {
     margin-left: auto;
     margin-right: auto;
 } 
+
+ul#links {
+    list-style-type: none;
+}
