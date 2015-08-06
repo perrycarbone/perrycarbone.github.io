@@ -23,3 +23,7 @@ footer {
 ul#links {
     list-style-type: none;
 }
+
+h5#links_heading {
+    text-align: center;
+}
