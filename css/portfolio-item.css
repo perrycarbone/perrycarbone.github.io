@@ -13,9 +13,5 @@ body {
 }
 
 footer {
-    margin: 10px 0;
+    margin: auto;
 } 
-
-#links_wrapper {
-  margin: auto;
-}
