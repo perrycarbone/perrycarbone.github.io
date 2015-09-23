@@ -18,11 +18,13 @@ footer {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-} 
+}
 
 ul#links {
     list-style-type: none;
     padding: 0px;
 }
 
-
+#larger_text {
+  font-size: 150%;
+}
