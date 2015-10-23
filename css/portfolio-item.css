@@ -9,17 +9,18 @@ body {
 }
 
 .portfolio-item {
-    margin-bottom: 25px;
-    margin-left: auto;
-    margin-right: auto;
+  margin-bottom: 25px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 footer {
-    margin: 10px 0;
-    display: table;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
+  padding-top: 80px;
+  margin: 10px 0;
+  display: table;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 ul#links {
